@@ -1,0 +1,19 @@
+1. Pegar prova no topo da pilha
+2. Verificar resposta da pergunta 1
+3. A resposta está correta? Se sim adicione sinal de correto. Se não adicione um x
+4. Verificar a resposta da pergunta 2
+5.A resposta está correta? Se sim adicione sinal de correto. Se não adicione um
+ x
+6. Verificar a resposta da pergunta 3
+7. A resposta está correta? Se sim adicione sinal de correto. Se não adicione um
+ x
+8. Verificar a resposta da pergunta 4
+9. A resposta está correta? Se sim adicione sinal de correto. Se não adicione um
+ x
+10. Verificar a resposta da pergunta 5
+11. A resposta está correta? Se sim adicione sinal de correto. Se não adicione um
+ x
+12. Cada sinal correto equivale a um ponto
+13. Somar pontos
+14. Atribuir uma nota
+15. Repetir comandos a partir do 1
