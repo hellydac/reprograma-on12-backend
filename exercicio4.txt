@@ -1,0 +1,10 @@
+1. Insira o seu cartão do banco no caixa eletrônico
+2. Selecionar na tela a opcão "saque"
+3. Insira o valor desejado para saque
+4. Confira o valor e aperte confirmar
+5. Inserir a senha do cartão 
+6. Apertar confirma para senha do cartão
+7. Aguardar liberação do dinheiro pelo caixa eletrônico
+8. Retirar o dinheiro
+9. Selecionar a opção "encerrar operação" 
+10. Retire o seu cartão
