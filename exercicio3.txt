@@ -1,0 +1,21 @@
+1. Verifique se o pneu está furado
+2. Se o pneu está furado, deve efetuar a troca pelo pneu reserva
+3. Abrir a mala do carro
+4. tirar a capa de proteção da mala que cobre o pneu
+5. Desenroscar o pneu reserva e as ferramentas que estão na mala
+6. Colocar o triangulo na estrada sinalizando que o carro está parado
+7. Selecionar a ferramenta da chave de roda
+8. Com a chave de roda folgar sem soltar  os parafusos do pneu furado
+9. Pegar o macaco 
+10. encaixar no lado do pneu furado, em local indicado pelo fabricante do carro
+11. subir o carro utilizando o macaco
+12. Soltar os parafusos do pneu furado
+13. Retirar o pneu furado
+14. Encaixar o pneu reserva
+15. encaixar os parafusos prendendo o pneu reserva, sem forçar
+16. Baixar o carro com o macaco
+17. Retirar o macaco
+18. apertar os parafusos com a chave de roda
+19. guardar o pneu furado e as ferramentas na mala
+20. Fechar a mala do carro
+21. Dirigir até uma borracharia para consertar o pneu furado
