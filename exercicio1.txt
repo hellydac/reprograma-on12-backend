@@ -1,0 +1,10 @@
+1. Checar se a lâmpada funciona no interruptor
+2. Se a lâmpada funciona, não precisa trocar. Se a lâmpada não funciona, precisa trocar.
+3. Pegar uma escada
+4. Posicionar uma escada embaixo da lâmpada a ser trocada
+5. Pegar uma lâmpada nova
+6. Subir a escada com a lâmpada nova na mão
+7. Desenroscar a lâmpada queimada
+8. Enroscar a lâmpada nova
+9. Descer a escada
+10. Checar no interruptor se a lâmpada nova funciona. 
