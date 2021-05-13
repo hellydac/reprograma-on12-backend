@@ -1,0 +1,6 @@
+1. Inserir primeiro numero
+2. Selecionar comando de adição
+3. Inserir segundo número
+4. Selecionar comando de adição
+5. Inserir terceiro número
+6. Selecionar comando de resultado 
