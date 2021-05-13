@@ -1,0 +1,4 @@
+1. Adicionar número
+2. Dividir número por 2
+3. Se o resultado for um número inteiro é par
+4. Se o resultado for um número com casa decimal, é ímpar
