@@ -1,0 +1,6 @@
+1. Adicionar a primeira nota
+2. Adicionar segunda nota
+3. Somar as duas notas
+4. Dividir o resultado por 2
+5. Se o resultado for maior ou igual a 7 o aluno está aprovado
+6. Se o resultado for menor ou igual a 6,99 o aluno está reprovado
